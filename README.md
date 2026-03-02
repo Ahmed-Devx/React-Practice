@@ -1,11 +1,11 @@
  
-# React Practice Projects
+# 🚀 React Practice Projects
 
 Welcome to **React Practice Projects** — a collection of small beginner-friendly React apps to help you practice core concepts like state, props, events, forms, and UI components. This repository contains simple React projects that focus on solving common UI tasks and help you strengthen your React skills.
 
 ---
 
-## 🚀 Projects Included
+## Projects Included
 
 Each folder contains a separate React project you can run and explore.
 
